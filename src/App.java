@@ -3,4 +3,8 @@ public class App {
         System.out.println("Hello, World!");
     }
 }
+<<<<<<< HEAD
 //This from master 
+=======
+//This is from testBranch
+>>>>>>> testBranch
